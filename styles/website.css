@@ -1,7 +1,7 @@
 img {
   width: 300px;
   height: 300px;
-  margin: 0px;
+  margin: 10px;
 }
 p {
   color: white
@@ -38,10 +38,8 @@ p {
   font-size: 14px;
 }
 .spotify-play-button {
-  color: white;
-  font-size: 100px;
-  background-color:rgb(30 215 96);
-  border-radius: 60%;
+  width: 100px;
+  height: 100px;
 }
 button {
   cursor: pointer;
